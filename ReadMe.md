@@ -5,7 +5,9 @@
 A simple task tracker application implemented in C++ using object-oriented programming concepts. This project is perfect for learning C++ programming and exploring OOP principles.
 
 ![Game Preview](./images/12.png)
+
 ![Game Preview](./images/13.png)
+
 ![Game Preview](./images/14.png)
 
 ## Table of Contents
