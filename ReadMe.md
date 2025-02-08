@@ -1,4 +1,5 @@
 # Task Tracker App in c++
+
 [![C++ Version](https://img.shields.io/badge/C++-23%2B-blue.svg)](https://isocpp.org/)
 
 A simple task tracker application implemented in C++ using object-oriented programming concepts. This project is perfect for learning C++ programming and exploring OOP principles.
@@ -8,6 +9,7 @@ A simple task tracker application implemented in C++ using object-oriented progr
 ![Game Preview](./images/14.png)
 
 ## Table of Contents
+
 - [Overview](#overview)
 - [Features](#features)
 - [Installation](#installation)
@@ -27,15 +29,17 @@ Task Tracker is a simple application that allows users to manage their tasks. Us
 ## Installation
 
 ### Prerequisites
+
 - A C++ compiler that supports C++11 or later.
 - [CMake](https://cmake.org/) installed on your system.
 
 ### Build Instructions
+
 1. **Clone the Repository**
 
    ```bash
    git clone https://github.com/AbdelrahmanElshahat/Task-Tracker.git
-   cd Tic-Tac-Toe
+   cd Task-Tracker
 2. **Build the Project**
 
    ```bash
@@ -45,6 +49,7 @@ Task Tracker is a simple application that allows users to manage their tasks. Us
    cmake --build .
 
 ## Usage
+
 After building the project, you can run the application from the terminal. The application supports the following commands:
 
 1. **Add Task:** Add a new task to the task list.
@@ -54,16 +59,21 @@ After building the project, you can run the application from the terminal. The a
 5. **Exit:** Exit the application.
 
 ## Contributing
+
 Contributions are welcome! To contribute:
+
 1. Fork the repository.
 
 2. .Create a new branch.
+
     ```bash
     git checkout -b feature/your-feature-name.
 3. Make your changes and commit them.
+
     ```bash
     git commit -m 'Add some feature'.
 4. Push to your branch.
+
     ```bash
     git push origin feature/your-feature-name. 
 
