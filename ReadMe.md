@@ -64,7 +64,7 @@ Contributions are welcome! To contribute:
 
 1. Fork the repository.
 
-2. .Create a new branch.
+2. Create a new branch.
 
     ```bash
     git checkout -b feature/your-feature-name.
